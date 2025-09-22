@@ -1,4 +1,4 @@
-fuck# 🟡 Gold Price Prediction using Machine Learning
+fyufuck# 🟡 Gold Price Prediction using Machine Learning
 
 A machine learning project that predicts gold prices based on historical data. This model uses past trends to forecast future values using regression algorithms and visual analytics.
 
